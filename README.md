@@ -211,7 +211,7 @@ Business Insights
 
 The original interactive dashboard is available in Google Sheets:
 
-[View HR Employee Analytics Dashboard](PASTE-YOUR-GOOGLE-SHEETS-LINK-HERE)
+https://docs.google.com/spreadsheets/d/1pRAzBJkQrvCX7pEDdPxS_qcDq5jWutHUUna0xmE3tf0/edit?usp=sharing
 
 ## Project Summary
 
